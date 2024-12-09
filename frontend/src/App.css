@@ -1,0 +1,30 @@
+/* src/App.css */
+
+/* Reset default margins and paddings */
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Set global font family to Montserrat */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #F5F5F5; /* Light Gray background */
+}
+
+/* Customize scrollbar for better aesthetics */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f5f5f5;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #673AB7; /* Deep Purple */
+  border-radius: 4px;
+  border: 2px solid #F5F5F5;
+}
+
