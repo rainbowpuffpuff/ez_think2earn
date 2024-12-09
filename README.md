@@ -1,6 +1,8 @@
 # Google colab for running EZKL on model & data files:
 
-https://colab.research.google.com/github/rainbowpuffpuff/ez_think2earn/blob/master/ZuThailand_EZKL_demo.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rainbowpuffpuff/ez_think2earn/blob/master/ZuThailand_EZKL_demo.ipynb)
+https://colab.research.google.com/github/rainbowpuffpuff/ez_think2earn/blob/master/ZuThailand_EZKL_demo.ipynb 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rainbowpuffpuff/ez_think2earn/blob/master/ZuThailand_EZKL_demo.ipynb)
 
 1. Click the "Open in Colab" button to access the notebook environment.
 2. Run all cells by navigating to Runtime -> Run all.
