@@ -28,3 +28,9 @@ NIRS data "NIRS_01-29". For the ZuThailand buildathon, only the first 9 particip
 10. upload model.onnx from example pathing: ~/ez_think2earn/fnirs_ezkl/fNIRSNET/save/MA/KFold/1/1/
 11. wait for printout
 12. You successfully uploaded a brain computer interface model (https://github.com/wzhlearning/fNIRSNet), the script inputted data (https://doc.ml.tu-berlin.de/hBCI/contactthanks.php), and you created EZKL proofs that a private model was run on public data
+
+Below there's results of the training done on the Mental Arithmetic dataset:
+
+![Confusion_Matrix_Overall](https://github.com/user-attachments/assets/0465d8f8-cfe2-4d29-83cf-3e9cffa5ba7d)
+![Overall_Aggregated_Loss_Curve](https://github.com/user-attachments/assets/97d6af2b-ed3f-4109-a586-7efc6102dbd6)
+![Overall_Aggregated_Accuracy_Curve](https://github.com/user-attachments/assets/81c0abd0-ea32-4548-b235-af9481174e53)
